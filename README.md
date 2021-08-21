@@ -3,5 +3,5 @@ This repository is a Neural network architecture for Classifing Sounds using Con
 
 ## Dataset
 
-All the models were trained on the  [UrbanSound8k](https://urbansounddataset.weebly.com/urbansound8k.html).
+This model was trained on the [UrbanSound8k](https://urbansounddataset.weebly.com/urbansound8k.html).
 
